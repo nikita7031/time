@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        <div id="time_center">
+            <!-- <div class="hours">12</div>
+            <div class="sep">:</div>
+            <div class="minutes">37</div>
+            <div class="sep">:</div>
+            <div class="seconds">24</div>-->
+            <div id="current_date_time"></div>
+            <div class="time_center_background">88:88:88</div>
+        </div>
+        <!-- <div id="current_date_time_block"></div> -->
+    </div>
+    <div class="selector">
+        <select id="font">
+            <option disabled>Выбери шрифт</option>
+            <option value="DSEG7-Classic">Классический</option>
+            <option value="DSEG7-Classic-MINI">Классический Мини</option>
+            <option selected value="DSEG7-Modern">Модерн</option>
+            <option value="DSEG7-Modern-MINI">Модерн мини</option>
+        </select>
+        <select id="font_style">
+            <option disabled>Выбери начертание</option>
+            <option value="-Bold">Жирный</option>
+            <option value="-BoldItalic">Жирный курсив</option>
+            <option selected value="-Italic">Курсив</option>
+            <option value="-Light">Тонкий</option>
+            <option value="-LightItalic">Тонкий курсив</option>
+            <option value="-Regular">Обычный</option>
+        </select>
+        <input type="color" id="font_color" value="#00ffbf">
+        Чтобы скрыть эту панель нажми в левом нижнем углу
+    </div>
+    <div class="toggle_panel"></div>
+</body>
+<script src="script.js"></script>
+</html>

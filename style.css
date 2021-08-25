@@ -1,0 +1,226 @@
+/* dseg7-classic */
+
+@font-face {
+    font-family: 'DSEG7Classic-Regular';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-Regular.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Regular.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Classic-Italic';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-Italic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Italic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Classic-Bold';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-Bold.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Bold.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Classic-BoldItalic';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-BoldItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-BoldItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Classic-Light';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-Light.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Light.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Classic-LightItalic';
+    src: url('./fonts/DSEG7-Classic/DSEG7Classic-LightItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-LightItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic/DSEG7Classic-LightItalic.ttf') format('truetype');
+}
+
+/* dseg7-classic-mini */
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-Regular';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Regular.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Regular.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-Italic';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Italic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Italic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-Bold';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-BoldItalic';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-BoldItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-BoldItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-Light';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Light.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Light.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ClassicMini-LightItalic';
+    src: url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-LightItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-LightItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-LightItalic.ttf') format('truetype');
+}
+
+/* dseg7-modern */
+
+@font-face {
+    font-family: 'DSEG7Modern-Regular';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-Regular.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Regular.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Modern-Italic';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-Italic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Italic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Modern-Bold';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-Bold.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Bold.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Modern-BoldItalic';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-BoldItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-BoldItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Modern-Light';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-Light.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Light.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7Modern-LightItalic';
+    src: url('./fonts/DSEG7-Modern/DSEG7Modern-LightItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-LightItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern/DSEG7Modern-LightItalic.ttf') format('truetype');
+}
+
+/* dseg7-modern-mini */
+
+@font-face {
+    font-family: 'DSEG7ModernMini-Regular';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Regular.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Regular.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ModernMini-Italic';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Italic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Italic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ModernMini-Bold';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Bold.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Bold.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ModernMini-BoldItalic';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-BoldItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-BoldItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ModernMini-Light';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Light.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Light.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DSEG7ModernMini-LightItalic';
+    src: url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-LightItalic.woff2') format('woff2'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-LightItalic.woff') format('woff'),
+        url('./fonts/DSEG7-Modern-MINI/DSEG7ModernMini-LightItalic.ttf') format('truetype');
+}
+
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #000000;
+}
+
+.background{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    position: absolute;
+}
+
+#time_center{
+    display: flex;
+    font-family: 'DSEG7Modern-Italic';
+    /* font-size: 20vw; */
+    font-size: 13vw;
+}
+
+#current_date_time{
+    position: absolute;
+    color: rgb(0, 255, 191);
+    z-index: 1;
+    filter: drop-shadow(0 0 7vw);
+}
+
+.time_center_background{
+    color: rgb(16, 16, 16);
+    z-index: 0;
+}
+
+.selector{
+    position: absolute;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toggle_panel{
+    position: fixed;
+    /* background-color: red; */
+    height: 25vh;
+    width: 25vw;
+    margin-top: 75vh;
+}
